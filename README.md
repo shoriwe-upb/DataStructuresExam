@@ -15,7 +15,7 @@ cd DataStructuresExam
 
 3. Compile it using
 
-Notice that I compile it in Windows using 
+Notice that I compile it in Windows using `mingw_w64-dwarf`
 
 ```shell
 gcc -I include main.c -o solution.exe
